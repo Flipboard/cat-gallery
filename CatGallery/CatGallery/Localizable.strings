@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  CatGallery
+
+  Created by Mark Townsend on 5/17/22.
+  
+*/
+
+"MAIN_BUTTON_TITLE" = "See some cats!";
+"CAT_BROWSER_TITLE" = "Cats";
+"CAT_TAG_TITLE" = "Tags";
